@@ -1,13 +1,11 @@
 #YoloRepo
-========
-
 A repository managed by the crowd.
 
 ========
 
 ###How to participate
 * Fork, code, commit, emit a pull request.
-* Post the link to your pull request on reddit.com/r/yolorepo
+* Post the link to your pull request on [reddit.com/r/yolorepo](http://reddit.com/r/yolorepo).
 * If your pull request is mergeable, and gets upvoted to the first item, it will get merged, and then deployed.
 
 ####Why?
